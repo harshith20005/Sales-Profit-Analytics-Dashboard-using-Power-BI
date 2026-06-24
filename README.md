@@ -23,5 +23,10 @@ Interactive Power BI dashboard to analyze sales performance, profit trends, and 
 - Interactive Filters
 - Trend Visualization
 
+
+## Project File
+<a href="https://github.com/harshith20005/Sales-Profit-Analytics-Dashboard-using-Power-BI/raw/refs/heads/main/sunny.pbix">Project File</a>
+
+
 ## Outcome
 Helped identify top-performing products and regions for better business decisions.
